@@ -3,7 +3,7 @@ import numpy as np
 import random
 import time
 
-st.title("My Israeli  bot")
+st.title("Whatsapp marketing bot")
 
 
 #initialize the chat history
